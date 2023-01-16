@@ -18,4 +18,4 @@ Always remember to keep a space between the # and the actual text since some Mar
 Paragraphs are good!  You can mark them with HTML formatting too.  <p>HTML Paragraph format!</p>  Remember not to put tabs or spaces in front of the paragraphs, and to keep lines left-aligned.
 
 Line breaks are also good!  End a line with two or more spaces or use \<br> as in HTML.
-> \\<br>
+> \\\<br>
